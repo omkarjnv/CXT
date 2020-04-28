@@ -1,0 +1,41 @@
+{
+  "Array": [
+    {
+      "Cluster Shared Storage": "Yes", 
+      "Cluster lock LUN": "Yes", 
+      "Model": "Any", 
+      "Name": "XP"
+    }, 
+    {
+      "Cluster Shared Storage": "Yes", 
+      "Cluster lock LUN": "Yes", 
+      "Model": "Any", 
+      "Name": "3PAR"
+    }, 
+    {
+      "Cluster Shared Storage": "Yes", 
+      "Cluster lock LUN": "Yes", 
+      "Model": "Any", 
+      "Name": "EVA"
+    }, 
+    {
+      "Cluster Shared Storage": "Yes", 
+      "Cluster lock LUN": "Yes", 
+      "Model": "Any", 
+      "Name": "MSA"
+    }, 
+    {
+      "Cluster Shared Storage": "Yes", 
+      "Cluster lock LUN": "Yes", 
+      "Model": "Any", 
+      "Name": "Store Virtual"
+    }, 
+    {
+      "Cluster Shared Storage": "Yes", 
+      "Cluster lock LUN": "Yes", 
+      "Model": "Any", 
+      "Name": "Nimble"
+    }
+  ], 
+  "SG Version": "A.12.10.00+"
+}
